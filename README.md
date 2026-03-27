@@ -99,7 +99,7 @@ Namma_Yatri_Analysis/
 
 📌 How to Run
 Clone the repository
-git clone https://github.com/your-username/project-name.git
+git clone https:/github.com/vikash03042/Ride-Funnel-Cancellation-Analysis.git
 Install dependencies
 pip install pandas numpy matplotlib seaborn plotly
 Open Jupyter Notebook
